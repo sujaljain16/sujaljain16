@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **competitive programming**
 
-- 📫 How to reach me **jainsujal2001@gmail.com**
+- 📫 How to reach me **https://www.sujal-jain.tech/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
